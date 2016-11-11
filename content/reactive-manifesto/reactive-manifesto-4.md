@@ -1,0 +1,4 @@
+
+## The Reactive Manifesto
+
+- **Resilient**: The system stays responsive in the face of failure. This applies not only to highly-available, mission critical systems — any system that is not resilient will be unresponsive after a failure. **Resilience is achieved by replication, containment, isolation and delegation**. Failures are contained within each component, isolating components from each other and thereby ensuring that parts of the system can fail and recover without compromising the system as a whole. Recovery of each component is delegated to another (external) component and high-availability is ensured by replication where necessary. The client of a component is not burdened with handling its failures.

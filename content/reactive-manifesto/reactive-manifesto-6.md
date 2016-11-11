@@ -1,0 +1,4 @@
+
+## The Reactive Manifesto
+
+- **Message Driven**: Reactive Systems rely on asynchronous message-passing to **establish a boundary between components** that ensures **loose coupling, isolation and location transparency**. This boundary also provides the means to delegate failures as messages. Employing explicit message-passing enables load management, elasticity, and flow control by shaping and monitoring the message queues in the system and applying back-pressure when necessary. Location transparent messaging as a means of communication makes it possible for the management of failure to work with the same constructs and semantics across a cluster or within a single host. Non-blocking communication allows recipients to only consume resources while active, leading to less system overhead.
