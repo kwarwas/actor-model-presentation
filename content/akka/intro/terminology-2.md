@@ -4,4 +4,4 @@
 - Non-blocking vs. Blocking
 - Deadlock vs. Starvation vs. Live-lock
 
-http://getakka.net/docs/concepts/terminology
+http://getakka.net/articles/concepts/terminology.html

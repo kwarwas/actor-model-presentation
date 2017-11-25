@@ -2,5 +2,5 @@
 
 ### Broadcast
 
-![Broadcast](http://getakka.net/docs/images/BroadcastRouter.png)
+![Broadcast](http://getakka.net/images/BroadcastRouter.png)
 

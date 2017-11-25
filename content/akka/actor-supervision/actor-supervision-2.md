@@ -6,4 +6,4 @@
 
 Each actor is the supervisor of its children, and as such each actor defines fault handling supervisor strategy. This strategy cannot be changed afterwards as it is an integral part of the actor system’s structure.
 
-http://getakka.net/docs/Fault%20tolerance
+https://pasoft-share.gitbooks.io/akka-net-docs/content/Fault%20tolerance.html

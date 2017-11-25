@@ -1,5 +1,5 @@
 ## Akka.NET - Supervision
 
-![Supervisors](http://getakka.net/docs/images/TopLevelSupervisors.png)
+![Supervisors](http://getakka.net/images/TopLevelSupervisors.png)
 
-http://getakka.net/docs/Supervision
+http://getakka.net/articles/concepts/supervision.html

@@ -2,4 +2,4 @@
 
 ### more?
 
-http://getakka.net/docs/working-with-actors/Routers
+http://getakka.net/articles/actors/routers.html

@@ -9,4 +9,4 @@
 - ability to get values from environment variables
 - ability to write comments
 
-http://getakka.net/docs/concepts/hocon
+http://getakka.net/articles/concepts/configuration.html

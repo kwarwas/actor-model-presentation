@@ -2,4 +2,4 @@
 
 ### RoundRobin
 
-![RoundRobin](http://getakka.net/docs/images/RoundRobinRouter.png)
+![RoundRobin](http://getakka.net/images/RoundRobinRouter.png)

@@ -2,8 +2,8 @@
 
 Concurrency
 
-![Concurrency](http://getakka.net/docs/images/concurrency.png)
+![Concurrency](http://getakka.net/images/concurrency.png)
 
 Parallelism
 
-![Parallelism](http://getakka.net/docs/images/parallelism.png)
+![Parallelism](http://getakka.net/images/parallelism.png)

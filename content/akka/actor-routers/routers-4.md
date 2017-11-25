@@ -2,5 +2,5 @@
 
 ### SmallestMailbox
 
-![SmallestMailbox](http://getakka.net/docs/images/SmallestMailbox.png)
+![SmallestMailbox](http://getakka.net/images/SmallestMailbox.png)
 
